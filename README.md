@@ -1,5 +1,5 @@
-/* ViewPoint 
-Rebuilding the ViewPoint software of Oculus M750D SONAR using its SDK */
+ViewPoint 
+Rebuilding the ViewPoint software of Oculus M750D SONAR using its SDK 
 # Running the Sonar & Building 2D Sonar SLAM on Ubuntu
 
 **Blueprint Subsea · Oculus M750D**
